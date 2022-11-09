@@ -1,5 +1,0 @@
-SELECT TOP (1000) [Id]
-		,[Nome]
-		,[Telefone]
-		,[Ativo]
-	FROM [Agenda].[dbo].[Contatos]
